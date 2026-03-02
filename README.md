@@ -1,6 +1,6 @@
 # Finalcat
 
-Self-contained server binary for Finalcat (v1.1.0). Distributed via [GitHub Releases](https://github.com/lich99/finalcat/releases).
+Self-contained server binary for Finalcat (v1.2.0). Distributed via [GitHub Releases](https://github.com/lich99/finalcat/releases).
 
 ## Install
 
